@@ -7,4 +7,5 @@
 
 ## Usage
 
-- ./delete-git-remote-branches.sh <YOUR_COMMIT>
+- ./delete-git-remote-branches.sh <YOUR_REMOTE_NAME> <YOUR_COMMIT>
+- Example: ./delete-git-remote-branches.sh origin f21l2k3
